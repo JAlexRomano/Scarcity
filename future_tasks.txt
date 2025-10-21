@@ -1,2 +1,0 @@
-List how much money the user has left after calculation
-Create a delete feature
