@@ -1,4 +1,5 @@
-# Scarcity 💸
+# Scarcity
+
 
 > A lightweight budget prioritization tool — add items to your wish list, set priorities, and find out exactly what you can afford.
 
